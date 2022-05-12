@@ -6,10 +6,10 @@ auto: true
 loop: true
 ---
 
-* ![Blob Candidate 1](my-pics1/candidate_0.png)
-* ![Blob Candidate 2](my-pics1/candidate_1.png)
-* ![Blob Candidate 3](my-pics1/candidate_2.png)
-* ![Blob Candidate 4](my-pics1/candidate_3.png)
+* ![Blob Candidate 1](ndwfs_candidates/candidate_0.png)
+* ![Blob Candidate 2](ndwfs_candidates/candidate_1.png)
+* ![Blob Candidate 3](ndwfs_candidates/candidate_2.png)
+* ![Blob Candidate 4](ndwfs_candidates/candidate_3.png)
 * # A text slide
   This is a demo of the [Jekyll Gallery](http://lexoyo.me/jekyll-slideshow/).
   
