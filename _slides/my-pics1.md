@@ -6,7 +6,6 @@ auto: true
 loop: true
 ---
 
-* ![Blob Candidate 0](ndwfs_candidates/candidate_0.png)
 * ![Blob Candidate 1](ndwfs_candidates/candidate_1.png)
 * ![Blob Candidate 2](ndwfs_candidates/candidate_2.png)
 * ![Blob Candidate 3](ndwfs_candidates/candidate_3.png)
@@ -91,7 +90,7 @@ loop: true
 * ![Blob Candidate 82](ndwfs_candidates/candidate_82.png)
 * ![Blob Candidate 83](ndwfs_candidates/candidate_83.png)
 * ![Blob Candidate 84](ndwfs_candidates/candidate_84.png)
-
+* ![Blob Candidate 86](ndwfs_candidates/candidate_84.png)
 
 
 * # [Boötes Field Candidates](https://legacy.noirlab.edu/noao/noaodeep/)
