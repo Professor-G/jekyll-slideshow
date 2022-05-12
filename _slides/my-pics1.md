@@ -13,6 +13,6 @@ loop: true
 * # A text slide
   This is a demo of the [Jekyll Gallery](http://lexoyo.me/jekyll-slideshow/).
   
-  Pictures from [NDWFS](https://unsplash.com/collections/curated/93), originally compiled by [Moire Prescott](http://designerfund.com).
+  Pictures from [NDWFS](https://unsplash.com/collections/curated/93), originally compiled by [Dr. Moire K. Prescott](http://designerfund.com).
 
 
