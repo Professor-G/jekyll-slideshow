@@ -95,6 +95,6 @@ loop: true
 
 
 * # [Boötes Field Candidates](https://legacy.noirlab.edu/noao/noaodeep/)
-  [Theseare the 85 candidates originally compiled by Dr. Moire K. Prescott](https://arxiv.org/pdf/1111.2603.pdf).
+  [These are the 85 candidates originally compiled by Dr. Moire K. Prescott](https://arxiv.org/pdf/1111.2603.pdf).
 
 
