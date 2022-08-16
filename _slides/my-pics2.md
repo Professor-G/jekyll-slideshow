@@ -1,29 +1,75 @@
 ---
 layout: iframe
-title: My pictures gallery
+title: My slideshow
 item: 1
 auto: true
 loop: true
-speed: 1000
-pause: 4000
-pager: "false"
-controls: "false"
-style:
-  body:
-    duration: 10000
-    init:
-      position: absolute
-      bottom: 0
-      width: 200%
-    from:
-      left: 0
-    to:
-      left: -100%
 ---
 
-* ![A nice pic of mine](my-pics1/pic1.jpg)
-* ![Another nice pic of mine](my-pics1/pic2.jpg)
-* ![Another nice pic of mine](my-pics1/pic3.jpg)
-* ![Another nice pic of mine](my-pics1/pic4.jpg)
-
-
+* ![0.png](SI_10K/0.png)
+* ![1.png](SI_10K/1.png)
+* ![2.png](SI_10K/2.png)
+* ![3.png](SI_10K/3.png)
+* ![4.png](SI_10K/4.png)
+* ![5.png](SI_10K/5.png)
+* ![6.png](SI_10K/6.png)
+* ![7.png](SI_10K/7.png)
+* ![8.png](SI_10K/8.png)
+* ![9.png](SI_10K/9.png)
+* ![10.png](SI_10K/10.png)
+* ![11.png](SI_10K/11.png)
+* ![12.png](SI_10K/12.png)
+* ![13.png](SI_10K/13.png)
+* ![14.png](SI_10K/14.png)
+* ![15.png](SI_10K/15.png)
+* ![16.png](SI_10K/16.png)
+* ![17.png](SI_10K/17.png)
+* ![18.png](SI_10K/18.png)
+* ![19.png](SI_10K/19.png)
+* ![20.png](SI_10K/20.png)
+* ![21.png](SI_10K/21.png)
+* ![22.png](SI_10K/22.png)
+* ![23.png](SI_10K/23.png)
+* ![25.png](SI_10K/25.png)
+* ![29.png](SI_10K/29.png)
+* ![30.png](SI_10K/30.png)
+* ![31.png](SI_10K/31.png)
+* ![33.png](SI_10K/33.png)
+* ![34.png](SI_10K/34.png)
+* ![41.png](SI_10K/41.png)
+* ![43.png](SI_10K/43.png)
+* ![46.png](SI_10K/46.png)
+* ![48.png](SI_10K/48.png)
+* ![49.png](SI_10K/49.png)
+* ![50.png](SI_10K/50.png)
+* ![51.png](SI_10K/51.png)
+* ![52.png](SI_10K/52.png)
+* ![57.png](SI_10K/57.png)
+* ![59.png](SI_10K/59.png)
+* ![60.png](SI_10K/60.png)
+* ![64.png](SI_10K/64.png)
+* ![70.png](SI_10K/70.png)
+* ![71.png](SI_10K/71.png)
+* ![72.png](SI_10K/72.png)
+* ![74.png](SI_10K/74.png)
+* ![75.png](SI_10K/75.png)
+* ![76.png](SI_10K/76.png)
+* ![77.png](SI_10K/77.png)
+* ![78.png](SI_10K/78.png)
+* ![79.png](SI_10K/79.png)
+* ![80.png](SI_10K/80.png)
+* ![81.png](SI_10K/81.png)
+* ![82.png](SI_10K/82.png)
+* ![83.png](SI_10K/83.png)
+* ![84.png](SI_10K/84.png)
+* ![85.png](SI_10K/85.png)
+* ![86.png](SI_10K/86.png)
+* ![87.png](SI_10K/87.png)
+* ![88.png](SI_10K/88.png)
+* ![89.png](SI_10K/89.png)
+* ![90.png](SI_10K/90.png)
+* ![91.png](SI_10K/91.png)
+* ![92.png](SI_10K/92.png)
+* ![93.png](SI_10K/93.png)
+* ![94.png](SI_10K/94.png)
+* ![95.png](SI_10K/95.png)
